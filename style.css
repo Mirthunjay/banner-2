@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
+.background{
+    background-color: black;
+    height: auto;
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+
+.headings{
+    margin-left: 20px;
+}
+.banner-bg{
+    background-color: #F2F2F2;
+    width: 60%;
+
+}
+.blue{
+    color: #1BB0C2;
+    font-weight:900;
+    letter-spacing:1px;
+
+}
+.yellow{
+    color: #FBCB42;
+    font-weight:900;
+    letter-spacing:1px;
+    
+}
+
+.pd10{
+    padding-top: 10px;
+}
+.m10{
+    margin-top: 10px;
+}
+
+.grey-para{
+    color: darkgray;
+    font-family: 'Nunito', sans-serif;
+    font-size: 11px;
+    padding-left: 15px;
+    line-height: 14px;
+}
+
+.box{
+    height: 25px;
+    width: 100%;
+    background-color: #1BB0C2;
+    color: rgb(243, 241, 241);
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    padding-top: 4px;
+}
+
+.darkviloet{
+    color: #385F76;
+    font-weight:900;
+}
+.blue-para{
+    color: #1BB0C2;
+    font-family: 'Nunito', sans-serif;
+    font-size: 11px;
+    padding-bottom: 10px;
+    line-height: 14px;
+}
+.cake-content{
+    display: flex;
+    
+}
+.cake{
+    align-self:flex-end;
+    width: 100px;
+}
+
+.linear-image{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    width: 28%;
+    height: 90px;
+}
+.donut{
+    height: 64px;
+    align-self: flex-end;
+}
+
+.title-image{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 10px;
+
+}
+
+.title-3{
+    text-align: end;
+}
+
+.blue-paragraph{
+    color: #1BB0C2;
+    font-family: 'Nunito', sans-serif;
+    font-size: 8.5px;
+    line-height: 9px;
+    TEXT-ALIGN: end;
+    margin-top: -12px;
+}
+
+.mg10{
+    margin-top: -15px;
+}
+
+.images-4{
+    max-width: 80%;
+    margin-left: 55px;
+    margin-top: 15px;
+}
+
+.title-2{
+    text-align: end;
+    margin-top: 15px;
+}
+.line-height{
+    line-height:3px;
+}
+.people-img{
+    max-width: 150px;
+}
+.vertical_dotted_line
+{
+    display: flex;
+    justify-content:flex-end;
+    align-content: center;
+
+    border-left:dashed 4px #ABBDCC;
+    height: 690px;
+    margin-top: 30px;
+} 
+.mgl10{
+    margin-left: 10px;
+}
+
+.mgl20{
+    margin-left: 0px;
+}
+
+.bread{
+    width: 80px;
+    margin-top: -10px;
+}
+
+.injection{
+
+    width: 80%;
+    margin-top: 20px;
+}
+
+.num{
+   line-height: 1px;
+}
+
+.diabetics{
+margin-top: 20px;
+margin-left: -20px;
+line-height: 2px;
+}
+
+.right-blue-para{
+    font-size: 7px;
+    line-height: 9px;
+    margin-right: -55px;
+    font-weight: bold;
+}
